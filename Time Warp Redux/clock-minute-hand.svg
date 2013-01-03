@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,9 +14,8 @@
    height="100"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
+   inkscape:version="0.48.2 r9819"
    version="1.0"
-   sodipodi:docbase="/home/hesperaux/.cairo-clock/themes/Starburst"
    sodipodi:docname="clock-minute-hand.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
@@ -124,17 +124,18 @@
      inkscape:pageshadow="2"
      inkscape:zoom="11.13"
      inkscape:cx="20.828348"
-     inkscape:cy="100.11093"
+     inkscape:cy="99.257381"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showguides="true"
      inkscape:guide-bbox="false"
      inkscape:window-width="822"
      inkscape:window-height="716"
-     inkscape:window-x="616"
-     inkscape:window-y="132"
+     inkscape:window-x="938"
+     inkscape:window-y="155"
      inkscape:guide-points="false"
-     showgrid="false">
+     showgrid="false"
+     inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="horizontal"
        position="50"
@@ -192,7 +193,7 @@
      id="layer2"
      inkscape:label="tmp">
     <rect
-       style="color:#000000;fill:#ffff00;fill-opacity:0.43921568999999999;fill-rule:nonzero;stroke:#000000;stroke-width:0.19499999000000001;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.62650600999999995;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       style="color:#000000;fill:#d76cff;fill-opacity:0.43921568999999999;fill-rule:nonzero;stroke:#000000;stroke-width:0.19499999000000001;stroke-linecap:round;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.62650600999999995;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
        id="rect7214"
        width="38.462009"
        height="1.3640786"
@@ -210,5 +211,25 @@
        sodipodi:ry="2.1666527"
        d="M 2.1666527 0.024457138 A 2.1666527 2.1666527 0 1 1  -2.1666527,0.024457138 A 2.1666527 2.1666527 0 1 1  2.1666527 0.024457138 z"
        transform="translate(4.9432289e-2,1.2513533e-2)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#d76cff"
+       id="path3015"
+       sodipodi:cx="34.950584"
+       sodipodi:cy="-1.4824798"
+       sodipodi:rx="2.6055706"
+       sodipodi:ry="1.4824798"
+       d="m 37.556155,-1.4824798 a 2.6055706,1.4824798 0 1 1 -5.211141,0 2.6055706,1.4824798 0 1 1 5.211141,0 z"
+       transform="translate(-3.5938904,1.4824798)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#d76cff"
+       id="path3017"
+       sodipodi:cx="35.13028"
+       sodipodi:cy="-0.89847261"
+       sodipodi:rx="0.4492363"
+       sodipodi:ry="0.89847261"
+       d="m 35.579516,-0.89847261 a 0.4492363,0.89847261 0 1 1 -0.898473,0 0.4492363,0.89847261 0 1 1 0.898473,0 z"
+       transform="translate(0,0.89847261)" />
   </g>
 </svg>
